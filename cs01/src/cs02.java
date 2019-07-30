@@ -1,4 +1,4 @@
 
 public class cs02 {
-    sys
+    System.out.println("123123123");
 }
